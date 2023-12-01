@@ -1,5 +1,5 @@
-# AbusivePersianTextDetection
-Detection of Persian abusive texts:
+# AbusivePersianTweetsDetection
+Detection of Persian abusive tweets:
 In this project, we fine-tuned the HooshvareLab/bert-base-parsbert-uncased model using the SimpleTransformers library to detect abusive texts in Persian.
 
 
